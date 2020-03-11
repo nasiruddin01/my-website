@@ -1,0 +1,20 @@
+body {
+  background-color: #f3d1f4;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+}
+
+img {
+  background-color: #f3d1f4;
+}
+
+.circular {
+  border-radius: 90%;
+}
+
+.heading {
+  font-size: 10px;
+}
